@@ -3,7 +3,7 @@ body
 {
 	font-family: 'Poppins', sans-serif;
 	background-color: hsl(0, 0% 98%);
-	color: hs1(234, 12%, 34%);
+	color: hsl(234, 12%, 34%);
 }
 /* HEADER */
 
@@ -15,25 +15,25 @@ header {
 }
 
 p {
-	color: hs1(229, 6%, 66%);
+	color: hsl(229, 6%, 66%);
 	font-size: 15px;
 }
 
 .header-kid {
 	/* margin: 8px 33%; */
-	grid-column-start: 2;
+	grid-column-start: 1;
 }
 
 h2 {
 	font-size: 1.8rem;
 }
 
-.first {
+.first  {
 	font-weight: 200;
 	margin-bottom: 0;
 }
 
-.second {
+.second  {
 	font-weight: 600;
 	margin: 0;
 }
